@@ -1,0 +1,13 @@
+1. Crear un arreglo para los caracteres.
+2. dentro del arreglo de caracteres ir ingresando los caracteres.
+3. Ingresar caracteres en un ultimo espacio.
+4. Ingresar un caracter en cualquier posicion de memoria.
+5. Eliminar todos los caracteres.
+6. Eliminar un caracter de memoria.
+7. reordenar los caracteres en el arreglo despues de elminiar o ingresar uno.
+8.Covertir minusculas en mayusculas o viceversa.
+9. Mostrar posicion actual.
+10. Definir posicion que se desea estar.
+11. Condicion de que el arreglo ya esta lleno
+12 Condicion se esta en la ultima posicion del arreglo
+13. Moverse por todo el arreglo.

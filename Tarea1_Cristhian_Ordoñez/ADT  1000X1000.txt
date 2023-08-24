@@ -1,0 +1,19 @@
+1. Crear un arreglo bidimencional de tipo entero.
+2. Insertar valores.
+3. elminar valores.
+4. Moverse entre los espacios del arreglo
+5. Obtener la posicion de las filas y columnas.
+6. Obtener la cantidad de filas y columnas.
+7. reordenar los caracteres si se elimina uno
+8. Especificar posicion que se encuenta-
+
+Lo siguiente es imaginar una aplicación que almacene un arreglo de 1000x 1000
+donde menos de 10,000 registros son valores distintos de cero (esto indica
+menos del 10% de valores). Indique al menos una forma de mejorar el uso de
+espacio eficiente para un arreglo de dos dimensiones con un millón de elementos.
+
+9. Hacer un limite para el arreglo bidimencinal de 10,000 registros.
+10. Hacer condicion que cuando se ocupe el ultimo espacio de memoria en el arreglo
+Aumentar el arreglo bidimencionalmente + 1 y asi susesivamente cada vez que se ocupe
+el ultimo espacio en el arreglo.
+11. Si se ingresa un valor cero retornar un false y no agregarlo al arreglo
